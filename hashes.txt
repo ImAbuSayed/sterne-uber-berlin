@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sterne über Berlin
+
+This log tracks the cryptographic history and versioning for the song **Sterne über Berlin** (sterne-uber-berlin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:57:55.647300 | `v1` | `c6d2a460cdbe113fe90e1e08445c030eb31c313ca93412539ac61758b81b213d` | `e7fc0c99b5225c8bc5aaa823db4c8b2b78e14e2c11bba45218bc2caa0987ed07` | `2026-06-27_sterne-uber-berlin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
