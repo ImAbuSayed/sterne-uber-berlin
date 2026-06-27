@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sterne-uber-berlin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sterne über Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sterne-uber-berlin/) |
+| **Get License** | [Commercial Licensing for Sterne über Berlin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sterne-uber-berlin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sterne über Berlin, Baby, die Nacht gehört nur uns
+> Dein Blick trifft mich wie ein Bass Drop, das ist pure Kunst
+> Cruisen im AMG durch Mitte, lass die Sorgen hinter dir
+> Wir fliegen hoch durchs City-Light, dein Herzschlag tief in mir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
